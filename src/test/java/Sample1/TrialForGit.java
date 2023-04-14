@@ -6,6 +6,7 @@ public class TrialForGit {
 	{
 		System.out.println("TrialForGit");
 		System.out.println("1 change for pull");
+		System.out.println("Error");
 	}
 
 }
